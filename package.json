@@ -1,0 +1,10 @@
+{
+  "name": "hello-button",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A button that displays and says hello",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test.js"
+  }
+}
